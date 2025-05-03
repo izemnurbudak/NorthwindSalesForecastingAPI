@@ -242,4 +242,4 @@ if df_sales.empty:
 
 
 <sub>📌 Dipnot:Bu çalışma Turkcell GYK programı kapsamında ödev olarak yapılmıştır. 
-<sub> 	Ekip Üyeleri:İzemnur Budak, Fatma Begüm Arslanoğlu, Hande Nur Uygun, Eda Korkmaz, Nisanur Candan
+Ekip Üyeleri:İzemnur Budak, Fatma Begüm Arslanoğlu, Hande Nur Uygun, Eda Korkmaz, Nisanur Candan
