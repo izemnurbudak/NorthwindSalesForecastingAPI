@@ -1,9 +1,5 @@
 # NorthwindSalesForecastingAPI
 
-# sales-forecasting-api
-
-<sub>📌 Dipnot:Bu çalışma Turkcell GYK programı kapsamında ödev olarak yapılmıştır. 
-
 Bu proje, Northwind veritabanındaki sipariş verilerini kullanarak bir Makine Öğrenmesi modeli geliştirmeyi ve bu modeli FAST API aracılığıyla dış sistemlere sunmayı amaçlamaktadır. Tahmin modeli, ürün bazlı geçmiş satış verilerini analiz ederek gelecekteki satış miktarını öngörür.
 ________________________________________
 📌 1.PROJE AMACI
@@ -243,3 +239,7 @@ if df_sales.empty:
     raise HTTPException(status_code=404, detail="No sales data found.")
 
 /sales_summary uç noktasında veritabanında satış bilgisi yoksa 404 Not Found döndürülmesi sağlanır.
+
+
+<sub>📌 Dipnot:Bu çalışma Turkcell GYK programı kapsamında ödev olarak yapılmıştır. 
+<sub> 	Ekip Üyeleri:İzemnur Budak, Fatma Begüm Arslanoğlu, Hande Nur Uygun, Eda Korkmaz, Nisanur Candan
