@@ -1,7 +1,8 @@
 # NorthwindSalesForecastingAPI
 
 # sales-forecasting-api
-GELECEĞİ YAZAN KADINLAR SATIŞ TAHMİNİ API PROJESİ (NORTHWİND)
+
+<sub>📌 Dipnot:Bu çalışma Turkcell GYK programı kapsamında ödev olarak yapılmıştır. 
 
 Bu proje, Northwind veritabanındaki sipariş verilerini kullanarak bir Makine Öğrenmesi modeli geliştirmeyi ve bu modeli FAST API aracılığıyla dış sistemlere sunmayı amaçlamaktadır. Tahmin modeli, ürün bazlı geçmiş satış verilerini analiz ederek gelecekteki satış miktarını öngörür.
 ________________________________________
